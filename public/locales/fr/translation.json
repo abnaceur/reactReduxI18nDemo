@@ -1,0 +1,7 @@
+{
+    "home": {
+        "mainTitle": "Exemple de React avec i18n",
+        "text": "Bonjour je suis un texte à traduire",
+        "description": "Je suis un paragraph"
+    }
+}
